@@ -1,0 +1,97 @@
+
+
+body{
+	background-image: url("../images/skulls.png");
+}
+
+.navbar {
+	background-color: white;
+	font-family: 'Kavivanar', cursive;
+	font-size: 1.5em;
+	box-shadow: 10px 10px 20px grey;
+	height: 70px;	
+}
+
+.container{
+	width: 960px;
+
+}
+
+.navname {
+	font-size: 2.0em;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-family: 'Lobster', cursive;
+	background: linear-gradient(to bottom right, #4aaaa5, pink);
+	color: white;
+	text-shadow: 12px 12px 10px grey;
+	box-shadow: 10px 10px 20px grey;
+}
+
+.col-md-8 {
+	background-color: white;
+	margin-top: 50px;
+	border: 1px solid #cccccc;
+	width: 640px;
+	margin-right: 0;
+	margin-left: 0;
+	overflow: auto;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	color: #4aaaa5;
+	text-shadow: 12px 12px 6px gainsboro;
+}
+
+.pic{
+	float: left;
+	margin-right: 20px;
+	box-shadow: 10px 10px 20px grey;
+}
+
+p {
+	font-family: 'Kavivanar', cursive;
+	font-size: 1.25em;
+	text-align: justify;
+	padding-bottom: 20px;
+	line-height: 1.75;
+	color: #777777;
+}
+
+.panel {
+	margin-top: 50px;
+	text-shadow: 12px 12px 6px gainsboro;
+	box-shadow: 10px 10px 20px grey;
+	width: 270px;
+	margin-left: 0;
+	margin-right: 0;
+	text-align: center;
+}
+
+.panel-title{
+	color: #4aaaa5;
+	font-family: 'Lobster', cursive;
+	font-size: 2.0em;
+}
+
+.icons {
+	width: 60px;
+	height: 60px;
+}
+
+.bottom {
+	background-color: #666666;
+	color: darkgrey;
+	font-size: .75em;
+	font-weight: bold;
+	padding: 30px 0;
+	text-align: center;
+	border-top: 5px solid #4aaaa5;
+}	
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
